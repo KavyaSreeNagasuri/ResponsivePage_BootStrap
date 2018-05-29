@@ -1,0 +1,51 @@
+img{
+    text-align: center;
+    padding-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    height:80px;
+}
+.row{
+    padding-bottom: 50px;
+}
+.image_container{
+    padding-top: 15px;
+    background-color: white;
+    padding-bottom: 15px;
+}
+.skill_name
+{
+    text-align: center;
+    background-color: white;
+    padding-bottom: 15px;
+}
+.skill_writeup{
+    text-align: center;
+    background-color: white;
+    height:100px;
+    display: block;
+}
+body{
+    background-color: aqua;
+    
+}
+@keyframes example {
+    0%   {left:0px; top:0px;}
+    100%  { left:200px; top:0px;}
+}
+.anim{
+    animation-name: example;
+    animation-duration: 5s;
+    animation-delay: 5s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+} 
+.column{
+    padding:10px;
+}
+
